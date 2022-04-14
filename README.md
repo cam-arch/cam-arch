@@ -2,7 +2,16 @@
 
 ![Cameron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cam-arch)
 
-![](https://komarev.com/ghpvc/?username=cam-arch&color=brightgreen)
+<div>
+  <a align="center" href="https://github.com/cam-arch?tab=followers">
+    <img src="https://img.shields.io/github/followers/cam-arch?label=Follow%20%40cam-arch&style=social" />
+  </a>
+  <br/>
+  <a align="center" href="https://www.linkedin.com/camarchibold/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" />
+  </a>
+  <br/>
+</div>
 
 ### Languages:
 ### Java, Python, C, HTML, CSS, JavaScript
