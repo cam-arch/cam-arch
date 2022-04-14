@@ -2,7 +2,7 @@
 
 ![Cameron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cam-arch)
 
-![](https://komarev.com/ghpvc/?username=dimaportenko&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=cam-arch&color=brightgreen)
 
 ### Languages:
 ### Java, Python, C, HTML, CSS, JavaScript
