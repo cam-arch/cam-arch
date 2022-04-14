@@ -2,8 +2,8 @@
 
 ![Cameron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cam-arch)
 
-#Languages:
-#Java, Python, C, HTML, CSS, JavaScript
+###Languages:
+###Java, Python, C, HTML, CSS, JavaScript
 <!--
 **cam-arch/cam-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
