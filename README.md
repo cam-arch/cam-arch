@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/github/followers/cam-arch?label=Follow%20%40cam-arch&style=social" />
   </a>
   <br/>
-  <a align="center" href="https://www.linkedin.com/camarchibold/">
+  <a align="center" href="https://www.linkedin.com/in/cameronarchibold/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" />
   </a>
   <br/>
