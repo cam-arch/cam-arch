@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Cameron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cam-arch&hide=stars)
+![Cameron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cam-arch&hide=stars&show_icons=true)
 
 <div>
   <a align="center" href="https://github.com/cam-arch?tab=followers">
