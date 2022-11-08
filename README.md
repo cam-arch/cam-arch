@@ -16,7 +16,7 @@
 </div>
 
 ### Languages:
-### Java, Python, C, HTML, CSS, JavaScript
+### Java, Python, C, C++, HTML, CSS, JavaScript, TypeScript
 
 <!--
 **cam-arch/cam-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
