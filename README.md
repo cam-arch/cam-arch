@@ -18,8 +18,8 @@
 ### Languages:
 <img src=https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg width="80">
 <img src=https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg width="80">
-<img src=https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/C.svg width="80">
-<img src=https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/C++.svg width="80">
+<img src=https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg width="80">
+<img src=https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c++.svg width="80">
 <img src=https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg width="80">
 <img src=https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/typescript.svg width="80">
 
