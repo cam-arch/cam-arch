@@ -18,6 +18,8 @@
 ### Languages:
 ### Java, Python, C, C++, HTML, CSS, JavaScript, TypeScript
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cam-arch)]
+
 <!--
 **cam-arch/cam-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
