@@ -16,7 +16,10 @@
 </div>
 
 ### Languages:
-### Java ![alt text](https://github.com/yurijserrano/Github-Profile-Readme-Logos/tree/master/programming%20languages/java.svg?raw=true)
+### Java 
+
+![alt text](https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg)
+
 
 Python, C, C++, HTML, CSS, JavaScript, TypeScript
 
