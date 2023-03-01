@@ -16,7 +16,7 @@
 </div>
 
 ### Languages:
-### Java <img src=https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg width="48">
+### Java <img src=https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg width="80">
 Python, C, C++, HTML, CSS, JavaScript, TypeScript
 
 <img src="https://github-readme-stats.vercel.app/api?username=cam-arch&show_icons=true&theme=dark"/>
