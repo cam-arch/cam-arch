@@ -16,9 +16,11 @@
 </div>
 
 ### Languages:
-### Java, Python, C, C++, HTML, CSS, JavaScript, TypeScript
+### Java ![alt text](https://github.com/yurijserrano/Github-Profile-Readme-Logos/tree/master/programming%20languages/java.svg?raw=true)
 
-<img src="https://github-readme-stats.vercel.app/api?username=cam-arch&show_icons=true"/>
+Python, C, C++, HTML, CSS, JavaScript, TypeScript
+
+<img src="https://github-readme-stats.vercel.app/api?username=cam-arch&show_icons=true&theme=dark"/>
 <!--
 **cam-arch/cam-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
