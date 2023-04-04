@@ -27,7 +27,7 @@
   <img src=https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg width="80">
  </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=cam-arch&show_icons=true&theme=dark"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=cam-arch&show_icons=true&theme=dark"/> -->
 <!--
 **cam-arch/cam-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
